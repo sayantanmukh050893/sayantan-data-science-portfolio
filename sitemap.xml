@@ -44,6 +44,12 @@
   </url>
   
   <url>
+    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/categories.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
