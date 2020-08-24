@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sayantan Mukhopadhyay</title>
+    <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post.html</link>
+    <description>Recent content in Projects on Sayantan Mukhopadhyay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-1.html</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-1.html</guid>
+      <description>Coronavirus disease 2019 (COVID‑19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic. As of 23 August 2020, more than 23.1 million cases have been reported across 188 countries and territories, resulting in more than 802,000 deaths. More than 14.8 million people have recovered.
+The sole purpose of this project is to track the spread and development of this virus worldwide.</description>
+    </item>
+    
+  </channel>
+</rss>
