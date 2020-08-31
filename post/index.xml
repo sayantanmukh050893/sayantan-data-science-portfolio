@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Finding Messi</title>
+      <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-3.html</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-3.html</guid>
+      <description>This project is a classic example of the Face Recognition capabilities of Computer Vision and Deep Learning with the help of which we would be creating a face recognizer for Lionel Messi.
+In many big games critics find Messi to be subdued and missing from the game. This recognizer would end that debate once in for all as it would be able to identify Messi in images as well as in videos.</description>
+    </item>
+    
+    <item>
       <title>COVID-19</title>
       <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-1.html</link>
       <pubDate>Sun, 09 Aug 2020 10:58:08 -0400</pubDate>
