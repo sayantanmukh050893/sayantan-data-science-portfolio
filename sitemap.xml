@@ -3,28 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-1.html</loc>
-    <lastmod>2020-08-09T10:58:08-04:00</lastmod>
+    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/</loc>
+    <lastmod>2020-08-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/</loc>
-    <lastmod>2020-08-09T10:58:08-04:00</lastmod>
+    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-3.html</loc>
+    <lastmod>2020-08-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/projects.html</loc>
-    <lastmod>2020-08-09T10:58:08-04:00</lastmod>
+    <lastmod>2020-08-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags.html</loc>
+    <lastmod>2020-08-20T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-1.html</loc>
     <lastmod>2020-08-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
