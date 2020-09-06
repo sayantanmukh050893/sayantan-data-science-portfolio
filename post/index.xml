@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Official Document Scanner</title>
+      <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-4.html</link>
+      <pubDate>Sun, 30 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-4.html</guid>
+      <description>This project is a classic example of the Optical Character Recognition capabilities of the pytesseract python module with the help of which we can scan Indian PAN (Permanent Account Number) card and West Bengal Government Voter ID card.
+This scanning mechanism can be useful to scan standard documents which would be trained before hand. As of now only PAN card and Voter ID cards have been trained so those two cards can be scanned and important features can be extracted.</description>
+    </item>
+    
+    <item>
       <title>Finding Messi</title>
       <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/post/project-3.html</link>
       <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
