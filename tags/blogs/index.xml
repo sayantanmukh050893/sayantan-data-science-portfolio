@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogs on Sayantan Mukhopadhyay</title>
+    <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/blogs.html</link>
+    <description>Recent content in blogs on Sayantan Mukhopadhyay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DATA SCIENCE HUB</title>
+      <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/</link>
+      <pubDate>Sun, 30 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/</guid>
+      <description>Welcome to my blog with some of my work in progress. I have been working on multiple Data Science and Machine Learning related projects which I want to share with my fellow Data Scientists.</description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs/data_science.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs/data_science.html</guid>
+      <description>Twitter Analysis  
+Downloading Google Images using code</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs/machine_learning.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs/machine_learning.html</guid>
+      <description>Object Detection  
+Label Img  
+Linear Regression</description>
+    </item>
+    
+  </channel>
+</rss>

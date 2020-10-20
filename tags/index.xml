@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Sayantan Mukhopadhyay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>projects</title>
       <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/projects.html</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 30 Aug 2020 10:58:08 -0400</pubDate>
       
       <guid>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/projects.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogs</title>
+      <link>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/blogs.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/blogs.html</guid>
       <description></description>
     </item>
     
