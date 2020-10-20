@@ -59,6 +59,11 @@
   </url>
   
   <url>
+    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -66,6 +71,12 @@
   
   <url>
     <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/tags/blogs.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -84,6 +95,18 @@
   
   <url>
     <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs/data_science.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sayantanmukh050893.github.io/sayantan-data-science-portfolio/blogs/machine_learning.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
